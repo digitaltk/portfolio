@@ -10,7 +10,7 @@ const Footer = () => {
       <a
         className="badge badge-dark"
         rel="noopener"
-        href="https://github.com/hashirshoaeb"
+        href="https://github.com/digitaltk"
         aria-label="My GitHub"
       >
         Tatenda Makandigona
@@ -19,7 +19,7 @@ const Footer = () => {
       <p>
         <small className="text-muted">
           {" "}
-          Project code.
+         
         </small>
       </p>
     </footer>

@@ -1,42 +1,64 @@
-import { BlogBuilder } from "../components/blog/BlogBuilder";
+import {
+  BlogBuilder
+} from "../components/blog/BlogBuilder";
 const bloglist = [];
 
 const blog = new BlogBuilder({
-  title: "My First Blog",
-  image: "img",
-  description:
-    "Description Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem, dolores? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quia provident similique corporis rem ullam odio excepturi voluptas harum, architecto sit!",
-})
-  .addHeading("Heading")
+    title: "How I Became Me",
+    image: "img",
+    description: "It took me years to figure out what i really wanted, from trying many study options to finally deciding on how software development is what i really wanted",
+  })
+  .addHeading("Roadmap to Web Development/Software Development")
   .addParagraph(
-    "1st Paragraph Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur vero reiciendis quas, autem sit culpa? Quibusdam, cupiditate voluptate a non nulla aliquid enim doloremque ullam, facilis quisquam similique hic omnis!"
-  )
-  .addParagraph(
-    "2nd Paragraph Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ad, temporibus quae obcaecati eum expedita pariatur aspernatur recusandae beatae iste soluta sunt blanditiis dolore ipsam quia laboriosam quas perspiciatis architecto?"
+    "Deciding on this journey took years of practise as well as commitment"
   );
 
 const blog1 = new BlogBuilder({
-  title: "My Second Blog",
-  image: "img",
-  description:
-    "Description Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure tempore aut neque consectetur voluptatem quam nihil, facere earum adipisci, animi beatae dicta maiores, ipsam delectus ab molestias dolorum aperiam? Sapiente?",
-})
-  .addHeading("Heading")
+    title: "Where To Start?",
+    image: "img",
+    description: "Coming soon",
+  })
+  .addHeading("Which is the right path?")
   .addParagraph(
-    "1st Paragraph Aspernatur vero reiciendis quas, autem sit culpa? Quibusdam, cupiditate voluptate a non nulla aliquid enim doloremque ullam, facilis quisquam similique hic omnis!"
-  )
-  .addParagraph(
-    "2nd Paragraph Consequuntur ad, temporibus quae obcaecati eum expedita pariatur aspernatur recusandae beatae iste soluta sunt blanditiis dolore ipsam quia laboriosam quas perspiciatis architecto?"
-  )
-  .addHeading("New Heading")
-  .addParagraph(
-    "1st Paragraph Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur vero reiciendis quas, autem sit culpa? Quibusdam, cupiditate voluptate a non nulla aliquid enim doloremque ullam, facilis quisquam similique hic omnis!"
-  )
-  .addParagraph(
-    "2nd Paragraph Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ad, temporibus quae obcaecati eum expedita pariatur aspernatur recusandae beatae iste soluta sunt blanditiis dolore ipsam quia laboriosam quas perspiciatis architecto?"
+    "Coming soon "
   );
+
+const blog3 = new BlogBuilder({
+    title: "The Books",
+    image: "img",
+    description: "What would be the recommended books",
+  })
+  .addHeading("Which Books To Go For?")
+  .addParagraph(
+    "Coming soon "
+  );
+
+const blog4 = new BlogBuilder({
+    title: "Recommended Youtubers",
+    image: "img",
+    description: "Recommended Youtubers",
+  })
+  .addHeading("Youtube Channels I Would Recommended")
+  .addParagraph(
+    "Coming soon "
+  );
+
+const blog5 = new BlogBuilder({
+    title: "Programming Bedtime Stories",
+    image: "img",
+    description: "Did You Know?",
+  })
+  .addHeading("Javascript Frameworks")
+  .addParagraph(
+    "Coming soon "
+  );
+
+
 
 bloglist.push(blog1);
 bloglist.push(blog);
+bloglist.push(blog3);
+bloglist.push(blog4);
+bloglist.push(blog5);
 
 export default bloglist;

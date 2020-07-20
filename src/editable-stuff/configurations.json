@@ -29,19 +29,25 @@
       "image": "fa-linkedin",
       "url": "https://www.linkedin.com/in/tmakandigona/",
       "style": "socialicons"
+    },
+    {
+      "id": 4,
+      "image": "fa-free-code-camp",
+      "url": "https://www.freecodecamp.org/digitaltk",
+      "style": "socialicons"
     }
   ],
   "aboutHeading": "About Me",
   "showInstaProfilePic": true,
   "instaLink": "https://www.instagram.com/",
-  "instaUsername": "digitaltk.me",
+  "instaUsername": "tindo.gif",
   "instaQuerry": "/?__a=1",
-  "aboutDescription": "Highly focused technologist with a multidisciplinary skill set honed over 4+ years in the IT industry. I strive to build great products and can take an initial idea, tackle it from multiple angles and take it from something great to something incredible. With 4+ years of experience in various industries, I help tech startups from idea phase to high volumes. I design and build scale-able solutions, implement internal processes that fit your organization, build teams that produce results.",
+  "aboutDescription": "Highly focused technologist with a multidisciplinary skill set honed over 4+ years in the IT industry. I strive to build great products and can take an initial idea, tackle it from multiple angles and take it from something great to something incredible. With 3+ years of experience in various industries, I help tech startups from idea phase to high volumes. I design and build scale-able solutions, implement internal processes that fit your organization, build teams that produce results.",
   "projectHeading": "Recent Projects",
   "gitHubLink": "https://api.github.com/users/",
   "gitHubUsername": "digitaltk",
   "gitHubQuerry": "/repos?sort=updated&direction=desc",
   "projectsLength": 4,
   "showNavigationbar": true,
-  "showBlog": false
+  "showBlog": true
 }
