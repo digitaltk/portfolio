@@ -36,8 +36,8 @@ class Skills extends Component {
                 <i class="fab fa-react fa-2x" />
                 <h4>Reactjs</h4>
                 <p>
-                  Expanding my skillset to use Reactjs &amp; Redux with GraphQL
-                  invovled to fetch data from the backend
+                  Expanding my Frontend skillset using Reactjs &amp; Redux with
+                  GraphQL <em>Still Advancing</em>
                 </p>
               </div>
 
@@ -49,8 +49,10 @@ class Skills extends Component {
                 <i class="fab fa-wordpress fa-2x" />
                 <h4>Wordpress Knowledge</h4>
                 <p>
-                  Using Elemantor, Astra, WooCommerce as well as M/WAMP to
-                  develop full stack web applications
+                  Using Elemantor, Astra, WooCommerce, PHP &amp; MySQL as well
+                  as M/WAMP to develop full stack web applications. Being able
+                  to have adequate knowledge of market trends and industry
+                  requirements.
                 </p>
               </div>
 
@@ -62,8 +64,8 @@ class Skills extends Component {
                 <i class="fas fa-ad fa-2x" />
                 <h4>Database Knowledge</h4>
                 <p>
-                  Using MySQL &amp; PhP to store data, my goal as developer is
-                  to grow into the knowledge
+                  Having the ability to use SQL skills, ability to do Data
+                  Modelling &amp; Physical Schema design for given Database.
                 </p>
               </div>
             </div>

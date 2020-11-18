@@ -136,7 +136,7 @@ class AboutMe extends Component {
                 </p>
                 <ul>
                   <li>
-                    LMonitoring the technical performance of internal systems.
+                    Monitoring the technical performance of internal systems.
                   </li>
                   <li>Responding to requests from the development team</li>
                   <li>

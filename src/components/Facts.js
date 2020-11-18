@@ -49,7 +49,7 @@ class Facts extends Component {
                 <i class="icofont-live-support"></i>
                 <span data-toggle="counter-up">48</span>
                 <p>
-                  <strong>Hours</strong> Turnover time for project
+                  <strong>Hours</strong> Turnover time
                 </p>
               </div>
             </div>
@@ -63,7 +63,7 @@ class Facts extends Component {
                 <i class="icofont-users-alt-5"></i>
                 <span data-toggle="counter-up">5+</span>
                 <p>
-                  <strong>Community-based projects</strong>
+                  <strong>Community-based Projects</strong>
                 </p>
               </div>
             </div>
