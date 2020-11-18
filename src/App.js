@@ -8,7 +8,11 @@ import {
   showBlog,
 } from "./editable-stuff/configurations.json";
 import MainBody from "./components/home/MainBody";
-import AboutMe from "./components/home/AboutMe";
+// import AboutMe from "./components/home/AboutMe";
+import AboutMe from "./components/AboutMe";
+import Facts from "./components/Facts";
+import Community from "./components/Community";
+import Skills from "./components/Skills";
 import Project from "./components/home/Project";
 import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
@@ -20,6 +24,9 @@ const Home = () => {
     <Fragment>
       <MainBody />
       <AboutMe />
+      <Facts />
+      <Skills />
+      <Community />
       <Project />
     </Fragment>
   );

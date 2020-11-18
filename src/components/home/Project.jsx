@@ -37,7 +37,9 @@ const Project = () => {
     <div id="projects" className="jumbotron jumbotron-fluid bg-transparent m-0">
       {projectsArray.length && (
         <div className="container container-fluid p-5">
-          <h1 className="display-4 pb-5">{projectHeading}</h1>
+          <div class="section-title">
+            <h4 className=" pb-5">{projectHeading}</h4>
+          </div>
           <div className="row">
             {projectsArray.map((project) => (
               <ProjectCard key={project.id} id={project.id} value={project} />

@@ -19,7 +19,7 @@ const Footer = () => {
       <p>
         <small className="text-muted">
           {" "}
-         
+         Reactjs
         </small>
       </p>
     </footer>

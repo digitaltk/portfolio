@@ -5,8 +5,9 @@
   "FirstName": "Tatenda",
   "MiddleName": "",
   "LastName": "Makandigona",
-  "devDesc": "| Engineer | Programmer | Web Developer | Blogger | Community Volunteer",
-  "icons": [{
+  "devDesc": "| Engineer | Programmer |  Developer | Blogger | Community Volunteer",
+  "icons": [
+    {
       "id": 0,
       "image": "fa-github",
       "url": "https://github.com/digitaltk",
@@ -49,5 +50,5 @@
   "gitHubQuerry": "/repos?sort=updated&direction=desc",
   "projectsLength": 4,
   "showNavigationbar": true,
-  "showBlog": true
+  "showBlog": false
 }
